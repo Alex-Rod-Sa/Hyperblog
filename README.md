@@ -1,2 +1,3 @@
-# Hyperblog
-Un blog increible para el curso de git-github de platzi
+#Hyperblog
+
+Un blog para el [Curso Profesional de Git y GitHub](http://www.platzi.com/cursos/git-github "Curso Profesional de Git y GitHub") de [Platzi](http://www.platzi.com "Platzi")
